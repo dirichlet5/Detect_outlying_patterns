@@ -1,0 +1,10 @@
+"","point_tp","point_fp","bcr"
+"zero_len=2",0,0,0.5
+"zero_len=3",0.14,0,0.57
+"zero_len=4",0.32,0,0.66
+"zero_len=5",0.62,0,0.81
+"zero_len=6",0.62,0,0.81
+"zero_len=7",0.82,0,0.91
+"zero_len=8",0.86,0,0.93
+"zero_len=9",0.9,0,0.95
+"zero_len=10",0.9,0,0.95

@@ -1,0 +1,10 @@
+"","point_tp","point_fp","bcr"
+"sin_coeff=6",0.04,0,0.52
+"sin_coeff=6.5",0.26,0,0.63
+"sin_coeff=7",0.28,0,0.64
+"sin_coeff=7.5",0.32,0,0.66
+"sin_coeff=8",0.42,0,0.71
+"sin_coeff=8.5",0.6,0,0.8
+"sin_coeff=9",0.76,0,0.88
+"sin_coeff=9.5",0.84,0,0.92
+"sin_coeff=10",0.96,0,0.98
